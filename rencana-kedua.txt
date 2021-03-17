@@ -1,5 +1,7 @@
 rencana kedua
 - mencari kerja
 - mengupgrade laptop
+  *ssd
+  *ram
 - belajar java
-
+- belajar pyhton
