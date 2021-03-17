@@ -1,5 +1,6 @@
 rencana kedua
 - mencari kerja
 - mengupgrade laptop
-- belajar java
+- belajar pyhton
+- belajar html
 
