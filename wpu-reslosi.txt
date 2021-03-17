@@ -2,4 +2,5 @@ ali resolusi
 - menjadi lebih baik lagi 
 - belajar HTML
 - belajar JAVA
-- membuat aplikasi game
+- membuat aplikasi pendidikan
+- belajar bahasa jepang
