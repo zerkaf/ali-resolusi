@@ -3,5 +3,6 @@ rencana kedua
 - mengupgrade laptop
   *ssd
   *ram
+  *membersihkan ram
 - belajar java
 - belajar pyhton
