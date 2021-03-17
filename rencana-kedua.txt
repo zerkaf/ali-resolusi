@@ -6,3 +6,5 @@ rencana kedua
   *membersihkan ram
 - belajar java
 - belajar pyhton
+- belajar html
+
